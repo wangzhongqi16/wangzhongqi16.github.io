@@ -15,8 +15,7 @@ Education
 * Ph.D in the School of EECE, University of Chinese Academy of Science, 2025 (expected)
 
 
-###
-Work experience
+###Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
