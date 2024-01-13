@@ -11,10 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* B.S. in the Department of Automation, Tsinghua University, 2020
+* Ph.D in the School of EECE, University of Chinese Academy of Science, 2025 (expected)
+### 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -57,3 +56,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+### 
