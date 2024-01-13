@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhongqi Wang"
+title                    : "Welcome to Zhongqi Wang's blog!"
 title_separator          : "-"
 name                     : &name "Zhongqi Wang"
 description              : &description "personal description"
