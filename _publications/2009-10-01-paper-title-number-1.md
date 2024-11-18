@@ -1,17 +1,15 @@
 ### ---
-title: "Paper Title Number 1"
+title: "Langevin Sampling Plug-and-Play Synthetic Aperture Radar Imaging Algorithm"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+excerpt: 'This paper improves Plug-and-Play image processing algorithm via Langevin sampling.'
+date: 11 September 2024
+venue: 'IEEE Transactions on Geoscience and Remote Sensing'
+paperurl: 'https://doi.org/10.1109/TGRS.2024.3457819'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper improves Plug-and-Play image processing algorithm via Langevin sampling. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Z. Wang, C. Song, B. Wang, X. Qiu and M. Xiang, "Langevin Sampling Plug-and-Play Synthetic Aperture Radar Imaging Algorithm," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-15, 2024, Art no. 5222415, doi: 10.1109/TGRS.2024.3457819.
 ### 
 ing...
